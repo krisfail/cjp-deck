@@ -2,8 +2,8 @@
 // @name         怪しいDeck
 // @namespace    https://github.com/yuuki76/cjp-deck
 // @version      v1.0.1
-// @description  正しい日本語をDeckで。
-// @author       @yamad_linuxer and @yuuki76 aka kris
+// @description  正しい日本語をDeckで。 cjpう亻ブう刂を利用(@yamad_linuxer,@HiSubway)
+// @author       @yuuki76 aka kris
 // @match        https://tweetdeck.twitter.com/
 // @grant        none
 // @updateURL	 https://raw.githubusercontent.com/yuuki76/cjp-deck/main/cjpdeck.js
