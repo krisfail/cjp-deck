@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         怪しいDeck
-// @namespace    https://pastebin.com/3UGtwJhJ
-// @version      v0.6.4
-// @description  try to take over the world!
-// @author       You
+// @namespace    https://github.com/yuuki76/cjp-deck
+// @version      v1.0.0
+// @description  正しい日本語をDeckで。
+// @author       @yamad_linuxer and @yuuki76 aka kris
 // @match        https://tweetdeck.twitter.com/
 // @grant        none
+// @updateURL	 https://kris.fail/cjp-deck/cjpdeck.js
+// @license 	 MIT;https://opensource.org/licenses/mit-license.php
 // ==/UserScript==
 
 parcelRequire = function(e, r, t, n) {
