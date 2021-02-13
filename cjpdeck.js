@@ -6,7 +6,7 @@
 // @author       @yamad_linuxer and @yuuki76 aka kris
 // @match        https://tweetdeck.twitter.com/
 // @grant        none
-// @updateURL	 https://kris.fail/cjp-deck/cjpdeck.js
+// @updateURL	 https://raw.githubusercontent.com/yuuki76/cjp-deck/main/cjpdeck.js
 // @license 	 MIT
 // ==/UserScript==
 
