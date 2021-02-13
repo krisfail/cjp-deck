@@ -7,7 +7,7 @@
 // @match        https://tweetdeck.twitter.com/
 // @grant        none
 // @updateURL	 https://kris.fail/cjp-deck/cjpdeck.js
-// @license 	 MIT;https://opensource.org/licenses/mit-license.php
+// @license 	 MIT
 // ==/UserScript==
 
 parcelRequire = function(e, r, t, n) {
